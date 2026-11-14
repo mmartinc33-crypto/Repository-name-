@@ -1,0 +1,172 @@
+{
+  "productos": [
+    {
+      "id": "prenda_01",
+      "nombre": "Pantalón chino beige",
+      "categoria": "Pantalones",
+      "color": "Beige",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_01.jpg"
+    },
+    {
+      "id": "prenda_02",
+      "nombre": "Pantalón chino azul marino",
+      "categoria": "Pantalones",
+      "color": "Azul marino",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_02.jpg"
+    },
+    {
+      "id": "prenda_03",
+      "nombre": "Pantalón chino beige claro",
+      "categoria": "Pantalones",
+      "color": "Beige claro",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_03.jpg"
+    },
+    {
+      "id": "prenda_04",
+      "nombre": "Pantalón jogger gris",
+      "categoria": "Pantalones",
+      "color": "Gris",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_04.jpg"
+    },
+    {
+      "id": "prenda_05",
+      "nombre": "Pantalón jogger negro",
+      "categoria": "Pantalones",
+      "color": "Negro",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_05.jpg"
+    },
+    {
+      "id": "prenda_06",
+      "nombre": "Pantalón vaquero azul",
+      "categoria": "Pantalones",
+      "color": "Azul",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_06.jpg"
+    },
+    {
+      "id": "prenda_07",
+      "nombre": "Sudadera con capucha beige",
+      "categoria": "Sudaderas",
+      "color": "Beige",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_07.jpg"
+    },
+    {
+      "id": "prenda_08",
+      "nombre": "Sudadera con capucha azul marino",
+      "categoria": "Sudaderas",
+      "color": "Azul marino",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_08.jpg"
+    },
+    {
+      "id": "prenda_09",
+      "nombre": "Sudadera de cuello redondo gris",
+      "categoria": "Sudaderas",
+      "color": "Gris",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_09.jpg"
+    },
+    {
+      "id": "prenda_10",
+      "nombre": "Jersey de punto azul marino",
+      "categoria": "Jerseys",
+      "color": "Azul marino",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_10.jpg"
+    },
+    {
+      "id": "prenda_11",
+      "nombre": "Polo blanco roto",
+      "categoria": "Polos",
+      "color": "Blanco roto",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_11.jpg"
+    },
+    {
+      "id": "prenda_12",
+      "nombre": "Polo azul marino",
+      "categoria": "Polos",
+      "color": "Azul marino",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_12.jpg"
+    },
+    {
+      "id": "prenda_13",
+      "nombre": "Camiseta blanca",
+      "categoria": "Camisetas",
+      "color": "Blanco",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_13.jpg"
+    },
+    {
+      "id": "prenda_14",
+      "nombre": "Camiseta azul marino",
+      "categoria": "Camisetas",
+      "color": "Azul marino",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_14.jpg"
+    },
+    {
+      "id": "prenda_15",
+      "nombre": "Camisa azul claro",
+      "categoria": "Camisas",
+      "color": "Azul claro",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_15.jpg"
+    },
+    {
+      "id": "prenda_16",
+      "nombre": "Camisa blanca",
+      "categoria": "Camisas",
+      "color": "Blanco",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_16.jpg"
+    },
+    {
+      "id": "prenda_17",
+      "nombre": "Sudadera de media cremallera verde oscuro",
+      "categoria": "Sudaderas",
+      "color": "Verde oscuro",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_17.jpg"
+    },
+    {
+      "id": "prenda_18",
+      "nombre": "Chaqueta azul marino",
+      "categoria": "Chaquetas",
+      "color": "Azul marino",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_18.jpg"
+    },
+    {
+      "id": "prenda_19",
+      "nombre": "Zapatillas blancas",
+      "categoria": "Calzado",
+      "color": "Blanco",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_19.jpg"
+    },
+    {
+      "id": "prenda_20",
+      "nombre": "Zapatillas azul marino",
+      "categoria": "Calzado",
+      "color": "Azul marino",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_20.jpg"
+    },
+    {
+      "id": "prenda_21",
+      "nombre": "Mocasines beige",
+      "categoria": "Calzado",
+      "color": "Beige",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_21.jpg"
+    },
+    {
+      "id": "prenda_22",
+      "nombre": "Mocasines marrón oscuro",
+      "categoria": "Calzado",
+      "color": "Marrón oscuro",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_22.jpg"
+    },
+    {
+      "id": "prenda_23",
+      "nombre": "Plumífero azul marino",
+      "categoria": "Abrigos",
+      "color": "Azul marino",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_23.jpg"
+    },
+    {
+      "id": "prenda_24",
+      "nombre": "Chaqueta beige",
+      "categoria": "Chaquetas",
+      "color": "Beige",
+      "imagen": "https://raw.githubusercontent.com/mmartinc33-crypto/Repository-name-/refs/heads/main/prenda_24.jpg"
+    }
+  ]
+}
