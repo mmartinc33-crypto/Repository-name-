@@ -1,0 +1,196 @@
+{
+  "productos": [
+    {
+      "id": "prenda_01",
+      "nombre": "Prenda 01",
+      "imagen": "imagenes/prenda_01.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_02",
+      "nombre": "Prenda 02",
+      "imagen": "imagenes/prenda_02.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_03",
+      "nombre": "Prenda 03",
+      "imagen": "imagenes/prenda_03.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_04",
+      "nombre": "Prenda 04",
+      "imagen": "imagenes/prenda_04.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_05",
+      "nombre": "Prenda 05",
+      "imagen": "imagenes/prenda_05.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_06",
+      "nombre": "Prenda 06",
+      "imagen": "imagenes/prenda_06.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_07",
+      "nombre": "Prenda 07",
+      "imagen": "imagenes/prenda_07.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_08",
+      "nombre": "Prenda 08",
+      "imagen": "imagenes/prenda_08.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_09",
+      "nombre": "Prenda 09",
+      "imagen": "imagenes/prenda_09.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_10",
+      "nombre": "Prenda 10",
+      "imagen": "imagenes/prenda_10.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_11",
+      "nombre": "Prenda 11",
+      "imagen": "imagenes/prenda_11.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_12",
+      "nombre": "Prenda 12",
+      "imagen": "imagenes/prenda_12.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_13",
+      "nombre": "Prenda 13",
+      "imagen": "imagenes/prenda_13.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_14",
+      "nombre": "Prenda 14",
+      "imagen": "imagenes/prenda_14.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_15",
+      "nombre": "Prenda 15",
+      "imagen": "imagenes/prenda_15.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_16",
+      "nombre": "Prenda 16",
+      "imagen": "imagenes/prenda_16.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_17",
+      "nombre": "Prenda 17",
+      "imagen": "imagenes/prenda_17.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_18",
+      "nombre": "Prenda 18",
+      "imagen": "imagenes/prenda_18.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_19",
+      "nombre": "Prenda 19",
+      "imagen": "imagenes/prenda_19.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_20",
+      "nombre": "Prenda 20",
+      "imagen": "imagenes/prenda_20.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_21",
+      "nombre": "Prenda 21",
+      "imagen": "imagenes/prenda_21.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_22",
+      "nombre": "Prenda 22",
+      "imagen": "imagenes/prenda_22.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_23",
+      "nombre": "Prenda 23",
+      "imagen": "imagenes/prenda_23.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    },
+    {
+      "id": "prenda_24",
+      "nombre": "Prenda 24",
+      "imagen": "imagenes/prenda_24.jpg",
+      "precio": null,
+      "tallas": [],
+      "enlace_compra": ""
+    }
+  ]
+}
