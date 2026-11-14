@@ -1,0 +1,16 @@
+CATÁLOGO DE ROPA PARA GITHUB / LANDBOT
+
+Contenido:
+- catalogo.json: índice de las 24 prendas.
+- imagenes/: 24 fotografías extraídas de las páginas del PDF.
+
+SUBIDA A GITHUB
+1. Descomprime este ZIP en tu ordenador.
+2. En tu repositorio de GitHub, pulsa "uploading an existing file".
+3. Arrastra el archivo catalogo.json y la carpeta imagenes completa.
+4. Pulsa "Commit changes".
+
+IMPORTANTE
+El catálogo conserva las fotografías del PDF. Los precios, tallas y enlaces de compra
+están vacíos porque no venían indicados en el documento. El campo "imagen" contiene
+la ruta relativa de cada fotografía dentro del repositorio.
